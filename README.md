@@ -7,10 +7,8 @@
 2. [Features](#Features)
 3. [Installation](#Installation)
 4. [Working of the App](#Working-of-the-App)
-5. Project Structure
-6. Contributing
-7. License
-8. Contact
+5. [Dependencies](#Dependencies)
+6. [Technologies Used](#Technologies-Used)
 
 # Introduction
 CIBO is a machine learning-based recipe recommendation app that helps users find recipes based on their available ingredients. The app leverages TF-IDF to find the closest recipe matches and is built with Flutter for a seamless and responsive front-end experience.
